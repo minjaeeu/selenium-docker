@@ -1,0 +1,1407 @@
+515  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+1102 [main] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.127/win64/chromedriver-win64.zip
+2355 [main] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+2650 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.127\chromedriver.exe
+9428 [main] INFO  c.m.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740342216726
+9439 [main] INFO  c.m.f.FlightsConfirmationPage -- Tax value: $89 USD
+9450 [main] INFO  c.m.f.FlightsConfirmationPage -- Total price value: $1169 USD
+487  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+722  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.127\chromedriver.exe
+9291 [main] INFO  c.m.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740342349936
+9302 [main] INFO  c.m.f.FlightsConfirmationPage -- Tax value: $89 USD
+9313 [main] INFO  c.m.f.FlightsConfirmationPage -- Total price value: $2338 USD
+273  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Minja\Workspace\docker_udemy\03-automation-framework\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml] otherwise TestNG may fail or not work as expected.
+478  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\03-automation-framework\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+713  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.127\chromedriver.exe
+9221 [main] INFO  c.m.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740342981901
+9233 [main] INFO  c.m.f.FlightsConfirmationPage -- Tax value: $89 USD
+9244 [main] INFO  c.m.f.FlightsConfirmationPage -- Total price value: $2338 USD
+278  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Minja\Workspace\docker_udemy\03-automation-framework\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml] otherwise TestNG may fail or not work as expected.
+479  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\03-automation-framework\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+720  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.127\chromedriver.exe
+9438 [main] INFO  c.m.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740343020503
+9450 [main] INFO  c.m.f.FlightsConfirmationPage -- Tax value: $89 USD
+9461 [main] INFO  c.m.f.FlightsConfirmationPage -- Total price value: $584 USD
+508  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\03-automation-framework\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+752  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.127\chromedriver.exe
+9927 [main] INFO  c.m.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740343191435
+9939 [main] INFO  c.m.f.FlightsConfirmationPage -- Tax value: $89 USD
+9950 [main] INFO  c.m.f.FlightsConfirmationPage -- Total price value: $584 USD
+10085 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.127\chromedriver.exe
+18030 [main] INFO  c.m.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740343199429
+18041 [main] INFO  c.m.f.FlightsConfirmationPage -- Tax value: $89 USD
+18053 [main] INFO  c.m.f.FlightsConfirmationPage -- Total price value: $1169 USD
+18184 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.127\chromedriver.exe
+24019 [main] INFO  c.m.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740343205346
+24033 [main] INFO  c.m.f.FlightsConfirmationPage -- Tax value: $89 USD
+24044 [main] INFO  c.m.f.FlightsConfirmationPage -- Total price value: $1753 USD
+24198 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.127\chromedriver.exe
+33300 [main] INFO  c.m.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740343214776
+33312 [main] INFO  c.m.f.FlightsConfirmationPage -- Tax value: $89 USD
+33323 [main] INFO  c.m.f.FlightsConfirmationPage -- Total price value: $2338 USD
+521  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\03-automation-framework\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+1606 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1627 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2700 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+6525 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+7931 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+7937 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+8533 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+11987 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+13375 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+13380 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+13945 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+17807 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+517  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\03-automation-framework\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+830  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+851  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+9136 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740358989381
+9147 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9158 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+9285 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+9292 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+15156 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740358995839
+15168 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+15180 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+15322 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+15327 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+17788 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+17795 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+524  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\03-automation-framework\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+1364 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1389 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+12070 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740365640230
+12081 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+12092 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+12240 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+12245 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+18224 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740365646364
+18235 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+18246 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+18390 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+18395 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+25267 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740365653331
+25278 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+25289 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+25401 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+25407 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+33268 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740365661365
+33280 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+33290 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+570  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+464  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+505  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+1524 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1544 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2823 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+5297 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+6684 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+6690 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+7284 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+9482 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+10881 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+10886 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+11467 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+14625 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+495  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+856  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+885  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+633  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+977  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1998 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+1006 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+4715 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+6101 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+6107 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+6717 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+8310 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+8316 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+8879 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+8002 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+8010 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+11921 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+12018 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+12023 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+17083 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+17089 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+24550 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740444354682
+24562 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+24573 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+541  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+495  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+59218 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740444429301
+59246 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+59273 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+58214 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+61751 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+72946 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740444443214
+72970 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+72994 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+71671 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+75496 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+85067 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740444454971
+85091 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+85117 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+83788 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+86839 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+98110 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740444468300
+98134 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+98158 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+599  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+8526 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740444491556
+8549 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8573 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+15565 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740444498345
+15590 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+15613 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+24100 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740444506997
+24125 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+24150 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+32312 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740444514990
+32335 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+32358 [main] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+527  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+3475 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+6293 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+9059 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+11718 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+14416 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+17543 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+520  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+2068 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+5217 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+7106 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+10915 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+14363 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+17921 [main] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+496  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+1556 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1556 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1556 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1582 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+1582 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+1582 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2706 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+2706 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+2706 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+6122 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+6135 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+6640 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+502  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+895  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+895  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+895  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+895  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+924  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+924  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+924  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+924  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+8183 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445537309
+8194 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8205 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+8789 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445537824
+8801 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8812 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+9720 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445538397
+9732 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9742 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+10497 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445539161
+10507 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10518 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+507  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+867  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+867  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+867  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+867  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+896  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+896  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+896  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+896  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+8333 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445594082
+8345 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8355 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+9279 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445595151
+9290 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9301 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+10292 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445595788
+10303 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10314 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+10393 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445595898
+10404 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10418 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+559  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+12440 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445664671
+12464 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+12487 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+22171 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445674633
+22194 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+22217 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+29286 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445681964
+29309 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+29331 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+37818 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445690162
+37841 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+37863 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+530  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+9528 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445933742
+9558 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9576 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445933685
+9584 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+9603 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9632 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+9687 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445934064
+9716 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9743 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+11798 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445936052
+11824 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+11850 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+499  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+596  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+6963 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445953039
+6991 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+7017 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+5816 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+8030 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445953702
+8056 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8083 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+8557 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445954237
+8590 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8631 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+6789 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+8714 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445954437
+8747 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8775 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+7305 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+8700 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+10803 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+10960 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+493  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+8861 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445986243
+8886 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8911 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+8956 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445986632
+8982 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9007 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+9915 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445987453
+9940 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9965 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+10438 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740445988252
+10463 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10487 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+494  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+1444 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+4053 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+5991 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+9483 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+11365 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+14755 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+504  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+1554 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+1554 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+1554 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+4844 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+5043 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+5445 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+203  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+218  [main] INFO  com.minjaeeu.util.Config -- Test properties
+219  [main] INFO  com.minjaeeu.util.Config -- ***************************
+219  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+219  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+219  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+219  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+219  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+219  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+219  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+219  [main] INFO  com.minjaeeu.util.Config -- ***************************
+201  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+207  [main] INFO  com.minjaeeu.util.Config -- Test properties
+207  [main] INFO  com.minjaeeu.util.Config -- ***************************
+207  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+207  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+207  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+207  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+207  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+207  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+207  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+207  [main] INFO  com.minjaeeu.util.Config -- ***************************
+198  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+203  [main] INFO  com.minjaeeu.util.Config -- Test properties
+203  [main] INFO  com.minjaeeu.util.Config -- ***************************
+203  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+203  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+203  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+203  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+203  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+203  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+203  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+204  [main] INFO  com.minjaeeu.util.Config -- ***************************
+254  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+82801 [main] INFO  com.minjaeeu.util.Config -- Test properties
+82802 [main] INFO  com.minjaeeu.util.Config -- ***************************
+82802 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+82802 [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+82803 [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+82803 [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+82803 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+82803 [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+82803 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+82804 [main] INFO  com.minjaeeu.util.Config -- ***************************
+196  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+201  [main] INFO  com.minjaeeu.util.Config -- Test properties
+201  [main] INFO  com.minjaeeu.util.Config -- ***************************
+201  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+201  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+201  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+201  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+201  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+201  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+201  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+201  [main] INFO  com.minjaeeu.util.Config -- ***************************
+511  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+527  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+527  [main] INFO  com.minjaeeu.util.Config -- Test properties
+528  [main] INFO  com.minjaeeu.util.Config -- ***************************
+528  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+528  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+528  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+528  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+528  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+528  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+528  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+528  [main] INFO  com.minjaeeu.util.Config -- ***************************
+543  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+543  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+543  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+2826 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+2826 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+3425 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+475  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+489  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+490  [main] INFO  com.minjaeeu.util.Config -- Test properties
+490  [main] INFO  com.minjaeeu.util.Config -- ***************************
+490  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+490  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+490  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+490  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+490  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+490  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+490  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+490  [main] INFO  com.minjaeeu.util.Config -- ***************************
+499  [main] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+517  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+534  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+534  [main] INFO  com.minjaeeu.util.Config -- Test properties
+534  [main] INFO  com.minjaeeu.util.Config -- ***************************
+534  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+535  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+535  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+535  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+535  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+535  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+535  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+535  [main] INFO  com.minjaeeu.util.Config -- ***************************
+1625 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1625 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1625 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1625 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+1646 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+1647 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+1647 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+1647 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+9310 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450637186
+9321 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9332 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+10503 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450638238
+10514 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10525 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+10544 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450638285
+10557 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10568 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+10832 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450639015
+10843 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10853 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+513  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+528  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+529  [main] INFO  com.minjaeeu.util.Config -- Test properties
+529  [main] INFO  com.minjaeeu.util.Config -- ***************************
+529  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+529  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+529  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+529  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+529  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+529  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+529  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+530  [main] INFO  com.minjaeeu.util.Config -- ***************************
+895  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+895  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+895  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+895  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+922  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+922  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+922  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+922  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+8311 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450652321
+8323 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8333 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+8393 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450652454
+8407 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8420 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+8715 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450652461
+8727 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8738 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+10732 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450654554
+10743 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10754 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+516  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+531  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+540  [main] INFO  com.minjaeeu.util.Config -- Test properties
+540  [main] INFO  com.minjaeeu.util.Config -- ***************************
+540  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+540  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+540  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+541  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+541  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+541  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+541  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+541  [main] INFO  com.minjaeeu.util.Config -- ***************************
+897  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+897  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+897  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+897  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+926  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+926  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+926  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+926  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+8395 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450678218
+8406 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8417 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+8922 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450678742
+8933 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8943 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+9464 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450679405
+9474 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9486 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+10414 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450680438
+10425 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10435 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+546  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+562  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+562  [main] INFO  com.minjaeeu.util.Config -- Test properties
+563  [main] INFO  com.minjaeeu.util.Config -- ***************************
+563  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+563  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+563  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+563  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+563  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+563  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+563  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+563  [main] INFO  com.minjaeeu.util.Config -- ***************************
+963  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+963  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+963  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+963  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+991  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+992  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+992  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+992  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+7508 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450757935
+7520 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+7531 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+8455 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450758758
+8466 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8477 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+8907 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450759310
+8908 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450759076
+8918 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8918 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8929 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+8929 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+510  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+532  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+533  [main] INFO  com.minjaeeu.util.Config -- Test properties
+533  [main] INFO  com.minjaeeu.util.Config -- ***************************
+533  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+533  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+533  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+533  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+533  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+533  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+533  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+533  [main] INFO  com.minjaeeu.util.Config -- ***************************
+911  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+911  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+911  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+911  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+939  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+939  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+939  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+939  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+7865 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450914418
+7877 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+7888 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+8222 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450915017
+8233 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8244 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+8331 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450914835
+8344 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8355 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+9277 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450915652
+9288 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9298 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+513  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+528  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+535  [main] INFO  com.minjaeeu.util.Config -- Test properties
+535  [main] INFO  com.minjaeeu.util.Config -- ***************************
+535  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub222222
+535  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+535  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+536  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+536  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+536  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+536  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+536  [main] INFO  com.minjaeeu.util.Config -- ***************************
+906  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+906  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+906  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+906  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+933  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+933  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+933  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+933  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+7241 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450968164
+7251 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+7263 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+7770 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450969050
+7782 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+7793 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+8733 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450969747
+8744 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8754 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+10353 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740450971320
+10364 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10375 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+512  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+528  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+529  [main] INFO  com.minjaeeu.util.Config -- Test properties
+529  [main] INFO  com.minjaeeu.util.Config -- ***************************
+529  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+529  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+529  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+529  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+529  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+529  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+529  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+529  [main] INFO  com.minjaeeu.util.Config -- ***************************
+891  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+891  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+891  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+891  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+920  [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+920  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+920  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+921  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+7765 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740451055509
+7776 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+7786 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+7905 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740451055784
+7916 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+7928 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+8760 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740451056686
+8770 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8781 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+9271 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740451057135
+9282 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9293 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+508  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+524  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+530  [main] INFO  com.minjaeeu.util.Config -- Test properties
+531  [main] INFO  com.minjaeeu.util.Config -- ***************************
+531  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+531  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+531  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+531  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+531  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+531  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+531  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+531  [main] INFO  com.minjaeeu.util.Config -- ***************************
+861  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+861  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+861  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+891  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+891  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+891  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2240 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+2240 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+2240 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+4848 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+5018 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+479  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+494  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+494  [main] INFO  com.minjaeeu.util.Config -- Test properties
+494  [main] INFO  com.minjaeeu.util.Config -- ***************************
+495  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+495  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+495  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+495  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+495  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+495  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+495  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+495  [main] INFO  com.minjaeeu.util.Config -- ***************************
+820  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+820  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+820  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+850  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+851  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+851  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2210 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+2210 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+2210 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+5030 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+5236 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+5781 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+493  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+508  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+509  [main] INFO  com.minjaeeu.util.Config -- Test properties
+509  [main] INFO  com.minjaeeu.util.Config -- ***************************
+509  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+509  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+509  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+509  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+509  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+509  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+509  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+509  [main] INFO  com.minjaeeu.util.Config -- ***************************
+832  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+832  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+832  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+859  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+859  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+859  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2247 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+2247 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+2247 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+5394 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+5397 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+5417 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+502  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+519  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+519  [main] INFO  com.minjaeeu.util.Config -- Test properties
+519  [main] INFO  com.minjaeeu.util.Config -- ***************************
+519  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+520  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+520  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+520  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+520  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+520  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+520  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+520  [main] INFO  com.minjaeeu.util.Config -- ***************************
+530  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+530  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+530  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+842  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+842  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+842  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+869  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+869  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+869  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2280 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+2280 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+2280 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+5266 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+6069 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+6214 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+507  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+522  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+523  [main] INFO  com.minjaeeu.util.Config -- Test properties
+523  [main] INFO  com.minjaeeu.util.Config -- ***************************
+523  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+523  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+523  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+523  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+523  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+523  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+523  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+523  [main] INFO  com.minjaeeu.util.Config -- ***************************
+535  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+535  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- Constant value false
+535  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+535  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- Constant value false
+535  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+535  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- Constant value false
+860  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+860  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+860  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+888  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+888  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+890  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2323 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+2323 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+2323 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+5666 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+6148 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+6315 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+503  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+517  [main] INFO  com.minjaeeu.tests.AbstractTest -- Initializing constants!!!!!
+518  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+519  [main] INFO  com.minjaeeu.util.Config -- Test properties
+519  [main] INFO  com.minjaeeu.util.Config -- ***************************
+519  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+519  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+519  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+519  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+519  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+519  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+519  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+519  [main] INFO  com.minjaeeu.util.Config -- ***************************
+530  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+530  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- Constant value false
+530  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+530  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- Constant value false
+530  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+530  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- Constant value false
+842  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+842  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+842  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+869  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+870  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+870  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2210 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+2210 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+2210 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+4544 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+4579 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+6043 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+485  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+500  [main] INFO  com.minjaeeu.tests.AbstractTest -- Initializing constants!!!!!
+501  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+508  [main] INFO  com.minjaeeu.util.Config -- Test properties
+508  [main] INFO  com.minjaeeu.util.Config -- ***************************
+508  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+508  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+508  [main] INFO  com.minjaeeu.util.Config -- key: browser, value chrome
+508  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+508  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value false
+508  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+509  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+509  [main] INFO  com.minjaeeu.util.Config -- ***************************
+518  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+518  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- Constant value false
+518  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+518  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- Constant value false
+518  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+518  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- Constant value false
+839  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+840  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+839  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+867  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+867  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+867  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2283 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+2283 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+2283 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+4725 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+5228 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+5771 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+517  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+531  [main] INFO  com.minjaeeu.tests.AbstractTest -- Initializing constants!!!!!
+532  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+533  [main] INFO  com.minjaeeu.util.Config -- Test properties
+533  [main] INFO  com.minjaeeu.util.Config -- ***************************
+533  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+533  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+533  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+533  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+533  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value "true"
+533  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+533  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+533  [main] INFO  com.minjaeeu.util.Config -- ***************************
+543  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+543  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- Constant value "true"
+543  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+544  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- Constant value "true"
+544  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- parsing value false
+544  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- Constant value "true"
+865  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+865  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+865  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+893  [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+893  [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+893  [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Minja\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+2210 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+2210 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+2210 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+4439 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+4729 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+10184 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+491  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+507  [main] INFO  com.minjaeeu.tests.AbstractTest -- Initializing constants!!!!!
+507  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+509  [main] INFO  com.minjaeeu.util.Config -- Test properties
+509  [main] INFO  com.minjaeeu.util.Config -- ***************************
+509  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+509  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+509  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+509  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+509  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+509  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+509  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+509  [main] INFO  com.minjaeeu.util.Config -- ***************************
+519  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- parsing value true
+519  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- Constant value true
+519  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- parsing value true
+519  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- Constant value true
+519  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- parsing value true
+519  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- Constant value true
+527  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+527  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+527  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+3712 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+3934 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+5901 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+6586 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+8681 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+11769 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+503  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+520  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+521  [main] INFO  com.minjaeeu.util.Config -- Test properties
+521  [main] INFO  com.minjaeeu.util.Config -- ***************************
+521  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+521  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+521  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+521  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+521  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+521  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+521  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+521  [main] INFO  com.minjaeeu.util.Config -- ***************************
+549  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+549  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+549  [TestNG-tests-4] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+549  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+9850 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740452828054
+9863 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9874 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+9875 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740452827720
+9889 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9903 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+19771 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740452838021
+19782 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+19794 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+20254 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740452838349
+20267 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+20279 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+538  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+559  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+559  [main] INFO  com.minjaeeu.util.Config -- Test properties
+559  [main] INFO  com.minjaeeu.util.Config -- ***************************
+560  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+560  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+560  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+560  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+560  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+560  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+560  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+560  [main] INFO  com.minjaeeu.util.Config -- ***************************
+588  [TestNG-tests-4] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+588  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+588  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+588  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+46419 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740453077723
+46431 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+46442 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+46637 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740453077041
+46651 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+46662 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+101614 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740453131649
+101627 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+101638 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+102204 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740453132115
+102215 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+102226 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+528  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\flight-reservation.xml
+
+547  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+547  [main] INFO  com.minjaeeu.util.Config -- Test properties
+548  [main] INFO  com.minjaeeu.util.Config -- ***************************
+548  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+548  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+548  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+548  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+548  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+548  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+548  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+548  [main] INFO  com.minjaeeu.util.Config -- ***************************
+577  [TestNG-tests-4] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+577  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+577  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+577  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+46203 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740453292795
+46217 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+46232 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+101454 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740453347253
+101467 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+101481 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+131979 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740453378127
+131993 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+132006 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+528  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+537  [main] INFO  com.minjaeeu.util.Config -- Test properties
+537  [main] INFO  com.minjaeeu.util.Config -- ***************************
+538  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+538  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+538  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+538  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+538  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+538  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+538  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+538  [main] INFO  com.minjaeeu.util.Config -- ***************************
+583  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+583  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+583  [TestNG-tests-4] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+583  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+46583 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740515412909
+46596 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+46611 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+46646 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740515413835
+46659 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+46672 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+101631 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740515468782
+101643 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+101655 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+102307 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740515469391
+102319 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+102330 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+113086 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+113086 [main] INFO  com.minjaeeu.util.Config -- Test properties
+113086 [main] INFO  com.minjaeeu.util.Config -- ***************************
+113086 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+113086 [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+113086 [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+113086 [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+113086 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+113087 [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+113087 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+113087 [main] INFO  com.minjaeeu.util.Config -- ***************************
+113087 [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+113087 [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+113087 [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+114615 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+115108 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+126248 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+126571 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+148938 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+160387 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+566  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+591  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+597  [main] INFO  com.minjaeeu.util.Config -- Test properties
+597  [main] INFO  com.minjaeeu.util.Config -- ***************************
+597  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+597  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+597  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+597  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+597  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+597  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+597  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+597  [main] INFO  com.minjaeeu.util.Config -- ***************************
+620  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+620  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+620  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+2700 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+2758 [TestNG-tests-3] ERROR com.minjaeeu.util.JsonUtil -- unable to read test data test-data/vendor-portal/john.json
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('/' (code 47)): maybe a (non-standard) comment? (not recognized as one since Feature 'ALLOW_COMMENTS' not enabled for parser)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 9, column: 27]
+	at com.fasterxml.jackson.core.JsonParser._constructReadException(JsonParser.java:2660)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:741)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipComment(UTF8StreamJsonParser.java:3237)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipWSOrEnd2(UTF8StreamJsonParser.java:3117)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipWSOrEnd(UTF8StreamJsonParser.java:3093)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken(UTF8StreamJsonParser.java:716)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:450)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1497)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:348)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:185)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4917)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3897)
+	at com.minjaeeu.util.JsonUtil.getTestData(JsonUtil.java:16)
+	at com.minjaeeu.tests.vendorportal.VendorPortalTest.setPageObjects(VendorPortalTest.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+3011 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+5403 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+6036 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+8466 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+503  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+512  [main] INFO  com.minjaeeu.util.Config -- Test properties
+512  [main] INFO  com.minjaeeu.util.Config -- ***************************
+512  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+512  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+512  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+512  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+512  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+512  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+512  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+513  [main] INFO  com.minjaeeu.util.Config -- ***************************
+536  [TestNG-tests-4] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+536  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+536  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+536  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+8238 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740515837237
+8250 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8262 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+10902 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740515839983
+10913 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10925 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+17143 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740515845841
+17155 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+17165 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+19407 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740515848467
+19418 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+19430 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+20166 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+20167 [main] INFO  com.minjaeeu.util.Config -- Test properties
+20167 [main] INFO  com.minjaeeu.util.Config -- ***************************
+20167 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+20167 [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+20167 [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+20167 [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+20167 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+20167 [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+20167 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+20167 [main] INFO  com.minjaeeu.util.Config -- ***************************
+20168 [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+20168 [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+20168 [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+21716 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+22279 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+24269 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+24286 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+26979 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+26981 [TestNG-tests-3] ERROR com.minjaeeu.util.JsonUtil -- unable to read test data test-data/vendor-portal/john.json
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('/' (code 47)): maybe a (non-standard) comment? (not recognized as one since Feature 'ALLOW_COMMENTS' not enabled for parser)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 9, column: 27]
+	at com.fasterxml.jackson.core.JsonParser._constructReadException(JsonParser.java:2660)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:741)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipComment(UTF8StreamJsonParser.java:3237)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipWSOrEnd2(UTF8StreamJsonParser.java:3117)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipWSOrEnd(UTF8StreamJsonParser.java:3093)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken(UTF8StreamJsonParser.java:716)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:450)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1497)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:348)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:185)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4917)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3897)
+	at com.minjaeeu.util.JsonUtil.getTestData(JsonUtil.java:16)
+	at com.minjaeeu.tests.vendorportal.VendorPortalTest.setPageObjects(VendorPortalTest.java:27)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+501  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+505  [main] INFO  com.minjaeeu.util.Config -- Test properties
+505  [main] INFO  com.minjaeeu.util.Config -- ***************************
+505  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+505  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+505  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+506  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+506  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+506  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+506  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+506  [main] INFO  com.minjaeeu.util.Config -- ***************************
+555  [TestNG-tests-4] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+555  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+555  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+555  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+9964 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740517705494
+9975 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+9985 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+11491 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740517707016
+11511 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+11526 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+16833 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740517712427
+16842 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+16853 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+22204 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740517718155
+22216 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+22226 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+22846 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+22847 [main] INFO  com.minjaeeu.util.Config -- Test properties
+22847 [main] INFO  com.minjaeeu.util.Config -- ***************************
+22847 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+22847 [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+22847 [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+22847 [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+22847 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+22847 [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+22847 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+22847 [main] INFO  com.minjaeeu.util.Config -- ***************************
+22848 [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+22848 [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+22848 [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+24363 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+24851 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+24853 [TestNG-tests-3] ERROR com.minjaeeu.util.JsonUtil -- unable to read test data test-data/vendor-portal/john.json
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('/' (code 47)): maybe a (non-standard) comment? (not recognized as one since Feature 'ALLOW_COMMENTS' not enabled for parser)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 9, column: 27]
+	at com.fasterxml.jackson.core.JsonParser._constructReadException(JsonParser.java:2660)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:741)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipComment(UTF8StreamJsonParser.java:3237)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipWSOrEnd2(UTF8StreamJsonParser.java:3117)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipWSOrEnd(UTF8StreamJsonParser.java:3093)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken(UTF8StreamJsonParser.java:716)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:450)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1497)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:348)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:185)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4917)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3897)
+	at com.minjaeeu.util.JsonUtil.getTestData(JsonUtil.java:16)
+	at com.minjaeeu.tests.vendorportal.VendorPortalTest.setPageObjects(VendorPortalTest.java:27)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+27335 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+28153 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+30164 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+494  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Minja\Workspace\docker_udemy\04-selenium-grid\selenium-docker_jdk17\src\test\resources\test-suites\vendor-portal.xml
+
+508  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+509  [main] INFO  com.minjaeeu.util.Config -- Test properties
+510  [main] INFO  com.minjaeeu.util.Config -- ***************************
+510  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+510  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+510  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+510  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+510  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+510  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+510  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+510  [main] INFO  com.minjaeeu.util.Config -- ***************************
+528  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+528  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+528  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+2943 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+3201 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+5543 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+6579 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+8168 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+11075 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+505  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+507  [main] INFO  com.minjaeeu.util.Config -- Test properties
+508  [main] INFO  com.minjaeeu.util.Config -- ***************************
+508  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+508  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+508  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+508  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+508  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+508  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+508  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+508  [main] INFO  com.minjaeeu.util.Config -- ***************************
+558  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+558  [TestNG-tests-4] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+558  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+558  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+8720 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740517915664
+8730 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+8741 [TestNG-tests-2] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1169 USD
+10015 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740517916958
+10026 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+10036 [TestNG-tests-1] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $584 USD
+18119 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740517925060
+18129 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+18139 [TestNG-tests-3] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $1753 USD
+20202 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Flight confirmation number: 2025-2-1740517927041
+20211 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Tax value: $89 USD
+20222 [TestNG-tests-4] INFO  c.m.p.f.FlightsConfirmationPage -- Total price value: $2338 USD
+20847 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+20848 [main] INFO  com.minjaeeu.util.Config -- Test properties
+20848 [main] INFO  com.minjaeeu.util.Config -- ***************************
+20848 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+20848 [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+20848 [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+20848 [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+20849 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+20849 [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+20849 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+20849 [main] INFO  com.minjaeeu.util.Config -- ***************************
+20850 [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+20850 [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+20850 [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+22504 [TestNG-tests-1] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/sam.json
+22948 [TestNG-tests-3] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/john.json
+24358 [TestNG-tests-1] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 8
+26015 [TestNG-tests-3] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 0
+27079 [TestNG-tests-2] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: test-data/vendor-portal/mike.json
+30588 [TestNG-tests-2] INFO  c.m.p.vendorportal.DashboardPage -- Results count: 10
+625  [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+631  [main] INFO  com.minjaeeu.util.Config -- Test properties
+631  [main] INFO  com.minjaeeu.util.Config -- ***************************
+631  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+631  [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+631  [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+631  [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+632  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+632  [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+632  [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+632  [main] INFO  com.minjaeeu.util.Config -- ***************************
+669  [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+669  [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+669  [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+669  [TestNG-tests-4] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+1254 [main] INFO  com.minjaeeu.util.ResourceLoader -- reading resource from location: config/default.properties
+1255 [main] INFO  com.minjaeeu.util.Config -- Test properties
+1255 [main] INFO  com.minjaeeu.util.Config -- ***************************
+1255 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.urlFormat, value http://%s:4444/wd/hub
+1255 [main] INFO  com.minjaeeu.util.Config -- key: selenium.wait.defaultTimeoutSec, value 30
+1255 [main] INFO  com.minjaeeu.util.Config -- key: browser, value firefox
+1255 [main] INFO  com.minjaeeu.util.Config -- key: vendorPortal.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1255 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.enabled, value true
+1255 [main] INFO  com.minjaeeu.util.Config -- key: flightReservation.url, value https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1255 [main] INFO  com.minjaeeu.util.Config -- key: selenium.grid.hubHost, value localhost
+1255 [main] INFO  com.minjaeeu.util.Config -- ***************************
+1256 [TestNG-tests-1] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+1256 [TestNG-tests-2] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
+1257 [TestNG-tests-3] INFO  com.minjaeeu.tests.AbstractTest -- grid url is http://localhost:4444/wd/hub
